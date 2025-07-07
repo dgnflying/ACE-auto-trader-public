@@ -1,5 +1,6 @@
 # ACE-auto-trader-public
 Public description of ACE's Auto Trade engine
+The repository for the core of ACE's Auto Trade engine is not avaliable for public view
 
 # ACE AI
 Trained on years of market data and signals
